@@ -1,4 +1,4 @@
 Completed-Works
 ===============
 
-Repository for completed works
+Repository for completed works.
